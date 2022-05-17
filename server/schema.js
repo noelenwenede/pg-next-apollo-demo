@@ -4,7 +4,7 @@ const {
   GraphQLObjectType,
   GraphQLString
 } = require('graphql')
-const faker = require('faker')
+// const faker = require('faker')
 
 module.exports = new GraphQLSchema({
   query: new GraphQLObjectType({
@@ -13,7 +13,7 @@ module.exports = new GraphQLSchema({
       name: {
         type: GraphQLString,
         resolve() {
-          return faker.name.findName()
+          return 'Publicis'
         }
       }
     }
