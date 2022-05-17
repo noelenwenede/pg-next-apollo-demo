@@ -14,7 +14,7 @@ var _link2 = _interopRequireDefault(_link);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var _jsxFileName = "/data/projects/next-apollo/client/pages/about.js?entry";
+var _jsxFileName = "/Users/emmanuelenwenede/publicis/pg-next-apollo-demo/client/pages/about.js?entry";
 
 exports.default = function () {
   return _react2.default.createElement("div", {
@@ -43,4 +43,4 @@ exports.default = function () {
     }
   }, "Go Back")));
 };
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInBhZ2VzL2Fib3V0LmpzIl0sIm5hbWVzIjpbIkxpbmsiXSwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7QUFBQSxBQUFPLEFBRVA7Ozs7Ozs7O2tCQUFlLFlBQUE7eUJBQ2IsY0FBQTs7Z0JBQUE7a0JBQUE7QUFBQTtBQUFBLEdBQUEsRUFFRTs7Z0JBQUE7a0JBRkYsQUFFRSxBQUFLO0FBQUw7QUFBQTs7Z0JBQUs7a0JBRlAsQUFFTyxBQUNMO0FBREs7QUFBQSxzQkFDTCxBQUFDLGdDQUFLLE1BQU4sQUFBVztnQkFBWDtrQkFBQSxBQUFlO0FBQWY7cUJBQWUsY0FBQTs7Z0JBQUE7a0JBQUE7QUFBQTtBQUFBLEtBSkosQUFDYixBQUdFLEFBQWU7QUFKbkIiLCJmaWxlIjoiYWJvdXQuanM/ZW50cnkiLCJzb3VyY2VSb290IjoiL2RhdGEvcHJvamVjdHMvbmV4dC1hcG9sbG8vY2xpZW50In0=
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInBhZ2VzL2Fib3V0LmpzIl0sIm5hbWVzIjpbIkxpbmsiXSwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7QUFBQSxBQUFPLEFBRVA7Ozs7Ozs7O2tCQUFlLFlBQUE7eUJBQ2IsY0FBQTs7Z0JBQUE7a0JBQUE7QUFBQTtBQUFBLEdBQUEsRUFFRTs7Z0JBQUE7a0JBRkYsQUFFRSxBQUFLO0FBQUw7QUFBQTs7Z0JBQUs7a0JBRlAsQUFFTyxBQUNMO0FBREs7QUFBQSxzQkFDTCxBQUFDLGdDQUFLLE1BQU4sQUFBVztnQkFBWDtrQkFBQSxBQUFlO0FBQWY7cUJBQWUsY0FBQTs7Z0JBQUE7a0JBQUE7QUFBQTtBQUFBLEtBSkosQUFDYixBQUdFLEFBQWU7QUFKbkIiLCJmaWxlIjoiYWJvdXQuanM/ZW50cnkiLCJzb3VyY2VSb290IjoiL1VzZXJzL2VtbWFudWVsZW53ZW5lZGUvcHVibGljaXMvcGctbmV4dC1hcG9sbG8tZGVtby9jbGllbnQifQ==

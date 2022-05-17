@@ -1,0 +1,11 @@
+{
+  "name": "pg-next-apollo-demo",
+  "packageManager": "yarn@3.2.1",
+  "scripts": {
+    "client:dev": "yarn workspace @pg/client dev"
+  },
+  "workspaces": [
+    "./client",
+    "./server"
+  ]
+}
